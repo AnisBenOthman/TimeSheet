@@ -87,5 +87,9 @@ public class Contrat implements Serializable {
 	public void setEmploye(Employe employe) {
 		this.employe = employe;
 	}
+	public void sumSalaire(Int a, Int b){
+		Int c = a+b
+
+	}
  
 }
